@@ -1,0 +1,17 @@
+*{
+  margin: 0;padding: 0;
+  background-color: grey;
+}
+canvas{
+  margin: 0 auto;
+  /*background-color: green;*/
+  display: block;
+  border: 1px solid black;
+}
+
+h1{
+  margin-top:100px;
+  text-align: center;
+  text-decoration:underline;
+  color: Red;
+}
